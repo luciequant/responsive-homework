@@ -91,6 +91,7 @@ p {
     font-size: 50px;
   }
   h2 {
+    font-size: 30px;
     text-align: center;
   }
   h3 {
@@ -98,5 +99,10 @@ p {
   }
   p {
     text-align: center;
+  }
+  .project-link {
+    display: block;
+    text-align: center;
+    margin: 0 20px;
   }
 }
